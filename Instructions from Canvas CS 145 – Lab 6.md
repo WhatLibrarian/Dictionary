@@ -1,30 +1,30 @@
+---
+tags:
+  - String
+---
 
-CS 145 – Lab 6  
+
 Binary Search Tree Dictionary Lab  
 Key topics:  
 Printing, data types, methods, operators, expressions, variables, loops, recursion, parameters, returns,  
 String objects, Scanner objects, and binary search trees  
-Learning Outcomes:  
+
+**Learning Outcomes:**  
 • Continue to become familiar with setup, design, execution and testing of Java programs  
 • Design and develop a multi-class, multi-method program in good style  
 • Demonstrate your understanding of recursion  
 • Apply tools and techniques introduced in class to create a working program  
 • Demonstrate your understanding of binary search trees  
-Task:  
-Your task is to create a dictionary using a binary search tree to do an employee, customer, or member  
-lookup. You may use either recursion or iteration to implement this data structure. Your BST should  
-give the user the option to use either pre-order, in-order, and post-order searches. You will name the  
-file <fi><li>Dictionary.java. You will be including this in your GitHub portfolio that you will show off to  
-employers, so make it good.  
+### Task:  
+Your task is to create a dictionary using a binary search tree to do an employee, customer, or member   lookup. You may use either recursion or iteration to implement this data structure. Your BST should give the user the option to use either pre-order, in-order, and post-order searches. 
+You will name the file Dictionary.java. You will be including this in your GitHub portfolio that you will show off to  employers, so make it good.  
 The database will start out empty, and each of the nodes will include first name, last name, street  
-address, city, state, zip, e-mail, and phone number, along with a primary key for doing search, add,  
-modify, and deletes.  
-Functional Rundown:  
-Upon executing your program, the console should display a menu (add, delete, modify, lookup, list  
-number of records. You don’t need to worry about sorting or balancing the tree. Based on the user’s  
-prompt, it should ask the user for the appropriate information and carry out the assigned tasks.  
-For Adds, it should prompt the user for the appropriate primary key, along with user data. The program  
-should give the user confirmation about the data added.  
+address, city, state, zip, e-mail, and phone number, along with a primary key for doing search, add, modify, and deletes.  
+
+**Functional Rundown:**  
+Upon executing your program, the console should display a menu (add, delete, modify, lookup, list
+number of records. You don’t need to worry about sorting or balancing the tree. Based on the user’s prompt, it should ask the user for the appropriate information and carry out the assigned tasks.  
+For Adds, it should prompt the user for the appropriate primary key, along with user data. The program should give the user confirmation about the data added.  
 For Deletes, it should prompt the user for field to be deleted and confirm that the user wishes to delete  
 this record. It should also confirm that the user wishes to delete the record.  
 For Lookups, you should give the user option of pre-order, in-order, or post order, and print out the  
