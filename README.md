@@ -1,7 +1,6 @@
 # lab6
 Binary Search Trees
-- add strings and traverse tree
-prompt user for strings?
+- add strings and traverse tree prompt user for strings?
 
 ## Extra Credit
 - writen as a generic (like E) - then maybe use extends?
