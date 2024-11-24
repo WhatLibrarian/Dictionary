@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class TestClass {
 
     public static void main(String[] args) {
-        BST bst = new BST();
+        BSTobject bst = new BSTobject();
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.println("Menu:");

@@ -1,4 +1,4 @@
-public class BST {
+public class BSTobject {
     class Node {
         int key;
         String firstName;

@@ -1,4 +1,4 @@
-public class BSTdict {
+public class BSTmethods {
 
 
 //class BST {

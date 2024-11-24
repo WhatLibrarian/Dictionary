@@ -39,6 +39,8 @@ Upon executing your program, the console should
 
 ## Extra Credit
 - Writen as a generic (like E) - then maybe use extends?
+	- https://www.geeksforgeeks.org/generics-in-java/
+	- https://www.baeldung.com/java-generics
 - use iteration (recursion is standard)
 - All data private
 - GUI programming.
