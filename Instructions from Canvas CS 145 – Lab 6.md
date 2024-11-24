@@ -26,14 +26,14 @@ Upon executing your program, the console should
 
 1. display a menu (add, delete, modify, lookup, list number of records. You don’t need to worry about sorting or balancing the tree. Based on the user’s prompt, it should ask the user for the appropriate information and carry out the assigned tasks.  
 
-2. For Adds, it should prompt the user for the appropriate primary key, along with user data. The program should give the user confirmation about the data added. 
+2. Lizzy For Adds, it should prompt the user for the appropriate primary key, along with user data. The program should give the user confirmation about the data added. 
 
-3. For Deletes, it should prompt the user for field to be deleted and confirm that the user wishes to delete  this record. It should also confirm that the user wishes to delete the record.  
+3. Ro  For Deletes, it should prompt the user for field to be deleted and confirm that the user wishes to delete  this record. It should also confirm that the user wishes to delete the record.  
 
 4. For Lookups, you should give the user option of 
-	1. pre-order, in-order, or 
-	2. post order, and 
-	3. print out the  appropriate values.  
+	1. pre-order, print 
+	2. in-order, print
+	3. post order, print 
 
 6. For Modify, the user should be prompted on which field(s) should be modified along with confirmation.
 
