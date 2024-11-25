@@ -14,3 +14,5 @@ Huffman coding tree (recursion)
 [java wikitionary api](https://github.com/dkpro/dkpro-jwktl) [getting started](https://dkpro.github.io/dkpro-jwktl/documentation/getting-started/)
 [REST API](https://en.wiktionary.org/api/rest_v1/#/Page%20content/get_page_definition__term_)
 3 classes!
+
+https://www.geeksforgeeks.org/binary-search-tree-traversal-inorder-preorder-post-order/  
